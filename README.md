@@ -1,7 +1,7 @@
 ﻿# Resume Analyzer (Backend Project)
 
 ## Overview
-This project is a backend web application that allows users to upload a resume file and receive structured feedback based on keyword analysis. The application extracts text from uploaded documents and evaluates how well the resume matches a prederfined technical keyword list.
+This project is a backend web application that allows users to upload a resume file and receive structured feedback based on keyword analysis. The application extracts text from uploaded documents and evaluates how well the resume matches a predefined list of technical keywords.
 
 This project was built to practice backend development, file handling, and API responses using Python and Flask.
 
