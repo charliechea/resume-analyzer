@@ -36,14 +36,11 @@ This project was built to practice backend development, file handling, and API r
   "missing_keywords": ["python", "flask", "linux", "git"],
   "chars": 3596
 }
-md
-
----
-
-## Project Screenshots
-
 ### Resume Upload Interface
-![Resume Upload Interface](screenshots/Screenshot_2025-09-18_191326.png)
+![Resume Upload Interface](screenshots/Screenshot%202025-09-18%20191326.png)
 
 ### JSON Analysis Output
-![JSON Output](screenshots/Screenshot_2025-11-8_124916.png)
+![JSON Output](screenshots/Screenshot%202025-11-08%20124916.png)
+
+### Backend Code Structure
+![Backend Code](screenshots/Screenshot%202025-12-19%20192916.png)
