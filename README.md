@@ -36,6 +36,7 @@ This project was built to practice backend development, file handling, and API r
   "missing_keywords": ["python", "flask", "linux", "git"],
   "chars": 3596
 }
+```
 ### Resume Upload Interface
 ![Resume Upload Interface](screenshots/Screenshot%202025-09-18%20191326.png)
 
