@@ -53,14 +53,10 @@ How?
 
 ### JSON Analysis Output
 ![Backend Code](screenshots/Screenshot%202025-12-19%20192916.png)
-What?
--Displays the structured feedback that generates feedback from resume keyword analysis for the resume analyzer.
-How?
--First, the coding structure extracts text from uploaded resumes.
--It compares resume content against predefined technical keywords that match the job requirements.
--Computes the resume score based on keyword coverage, like skill matching.
 Results?
--It returns clear, machine-readable feedback, including:
+-The resume returns clear, machine-readable feedback, including:
   -Found keyword matching
   -Missing keywords
   -Resume score
+-It resulted in scoring the resume by AI before its handed over to a human.
+
